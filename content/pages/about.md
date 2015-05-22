@@ -5,11 +5,16 @@ url: index.html
 save_as: index.html
 
 
-I’m a Chicago-based data scientist and developer at [Sprout Social](http://www.sproutsocial.com).
+I’m a software engineer based in Washington, DC. I have been in the professional field since 2010. I focus on supporting my team members and project by researching technical solutions, learning whatever technology/tool used, and never tearing anyone down.
 
-Previously, I was the first data science hire at [GrubHub](http://www.grubhub.com/), where I led the team focused on data research, A/B testing, and product analytics.
+I was first hired as a Junior Java Developer for a project that was around 10 years old and, unusually, still maintained by the same company. I learned a lot about the professional work environment, such as what tools are used and the common practices.
+I spent a year there, before being exposed to Groovy and Grails for a few months and shuffling over to a project where I was the lead developer producing a web application for use as a widget in the Ozone Widget Framework.
 
-I've also spent time at [Datascope](http://datascopeanalytics.com/), where I helped an NBA team with draft preparation and scouting, and [PwC](http://www.pwc.com/us/en/index.jhtml), where I focused on analytics related to fraud, investigations, and litigation.
+Which has continued to be the path of my professional career, coming and going from projects, some I may stay for a year, while others I've only been there for a few months. There are a few tools and practices that are shared between them all. And while a lot of them have some tangential relationship with Java, I've never just been a Java developer.
+
+I've done frontend development for what is now the majority of my career, but never with the same libraries or toolset. I'm fairly flexible, but I feel like I have an understanding of the needs for good teams.
+
+[Get in touch](mailto:wildbug@linuxmail.org.com?subject=ISawYourBlog).
 
 <center>
 <hr class="small">
