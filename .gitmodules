@@ -1,6 +1,6 @@
 [submodule "void"]
     path = void
     url = https://github.com/gjreda/void.git
-[submodule "vacuum"]
+[submodule "content/vacuum"]
 	path = content/vacuum
 	url = git@github.com:Stargator/vacuum.git
