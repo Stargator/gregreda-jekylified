@@ -6,6 +6,7 @@ Description: Looking film release dates throughout history to determine the date
 D3:
 Scripts: movie-releases.js
 Styles: styles.css
+layout: article
 ---
 
 > "We're talking about Thunderdome. It's from before you were born."

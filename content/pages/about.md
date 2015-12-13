@@ -1,9 +1,9 @@
+---
 Title: Home
-Slug: about
 Template: about
 url: index.html
 save_as: index.html
-
+---
 
 I’m a software engineer based in Washington, DC. I have been in the professional field since 2010. I focus on supporting my team members and project by researching technical solutions, learning whatever technology/tool used, and never tearing anyone down.
 

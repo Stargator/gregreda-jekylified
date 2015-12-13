@@ -3,6 +3,7 @@ Title: Principles of good data analysis
 Date: 2014-03-23
 Tags: data science, frameworks, methodology, thoughts
 Description: Good, thorough data analysis is difficult. Throughout my work, I've found it useful to follow these principles in order to ensure quality and consistency.
+layout: article
 ---
 
 Data analysis is hard.

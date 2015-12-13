@@ -2,6 +2,7 @@
 Title: How random is JavaScript's Math.random()?
 Date: 2013-06-30
 Tags: scraping, python, tutorial, data
+layout: article
 ---
 
 A few weeks back, I was talking with my friend [Molly](http://mollybierman.tumblr.com) about personal domains and realized that her nickname, Bierface, was available.  The exchange basically went like this:

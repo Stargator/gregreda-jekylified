@@ -1,9 +1,11 @@
 ---
-Title: Web Scraping 201: finding the API
+Title: Web Scraping 201 finding the API
 Date: 2015-02-15
 Tags: scraping, python, data, tutorial
 Description: When a page is rendered client-side, scraping can be difficult. Here’s how to find the API used so you’re able to get the data needed.
+layout: article
 ---
+(original title Web Scaping 201: finding the API)
 
 Previously, I explained [how to scrape a page](http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/) where the data is rendered *server-side*. However, the increasing popularity of Javascript frameworks such as [AngularJS](https://angularjs.org) coupled with [RESTful APIs](http://en.wikipedia.org/wiki/Representational_state_transfer#Applied_to_web_services) means that fewer sites are generated server-side and are instead being rendered *client-side*.
 

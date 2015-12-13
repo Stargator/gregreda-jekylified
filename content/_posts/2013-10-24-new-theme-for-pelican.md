@@ -2,6 +2,7 @@
 Title: New theme for Pelican
 Date: 2013-10-24
 Tags: pelican
+layout: article
 ---
 
 I spent some time last weekend making minor changes to this site. Specifically:

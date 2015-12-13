@@ -2,6 +2,7 @@
 Title: Write online about what you love
 Date: 2013-03-16
 Tags: writing, thoughts
+layout: article
 ---
 
 The other week, I wrote a [very basic intro to web scraping with Python](http://www.gregreda.com/2013/03/03/web-scraping-101-with-python/).  Some friends knew that I had experience scraping data and they wanted to learn, so I figured it would be a great opportunity to write something publicly and test how well I could explain it.

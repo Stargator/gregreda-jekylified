@@ -3,6 +3,7 @@ Title: Cohort Analysis with Python
 Date: 2015-08-23
 Tags: python, pandas, tutorial, cohort analysis, startup metrics
 Description: An intro to cohort analysis, and how to build them with Python and pandas.
+layout: article
 ---
 
 Despite having done it countless times, I regularly forget how to build a [cohort analysis](https://en.wikipedia.org/wiki/Cohort_analysis) with Python and [pandas](http://pandas.pydata.org/). I’ve decided it’s a good idea to finally write it out - step by step - so I can refer back to this post later on. Hopefully others find it useful as well.
@@ -30,7 +31,7 @@ It’s also a good way to visualize your user retention/churn as well as formula
 ## An example
 Imagine we have the following dataset (you can find it [here](http://dmanalytics.org/wp-content/uploads/2014/10/chapter-12-relay-foods.xlsx)):
 
-{% notebook cohort-analysis.ipynb cells[1:2] %}
+(Removed Cohort Analysis due to no notebook liquid tag)
 
 Pretty standard purchase data with IDs for the order and user, as well as the order date and purchase amount.
 
@@ -41,7 +42,7 @@ We want to go from the data above to something like this:
 Here’s how we get there.
 
 ## Code
-{% notebook cohort-analysis.ipynb %}
+(Removed Cohort Analysis due to no notebook liquid tag)
 
 ## Further work
 User retention is only one way of using cohorts to look at your business — we could have also looked at revenue retention. That is, the percentage of each cohort’s month 1 revenue returning in subsequent periods. User retention is important, but we shouldn’t lose sight of the revenue each cohort is bringing in (and how much of it is returning).

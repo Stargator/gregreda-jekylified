@@ -1,7 +1,7 @@
 ---
 Title: Hello World
 Date: 2013-01-22
-layout: post
+layout: article
 ---
 
 So I finally got around to putting something of my own up.

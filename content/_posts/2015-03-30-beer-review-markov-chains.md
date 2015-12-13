@@ -2,8 +2,10 @@
 Title: Nonsensical beer reviews via Markov chains
 Date: 2015-03-30
 Tags: beer, text, markov chain
-Description: Introducing BeerSnobSays: a bot that tweets nonsensical beer reviews generated via Markov chains.
+Description: Introducing BeerSnobSays a bot that tweets nonsensical beer reviews generated via Markov chains.
+layout: article
 ---
+(original description -> Introducing BeerSnobSays:)
 
 I’ve had a bunch of beer reviews and ratings data sitting on my hard drive for about year. For a beer nerd like me, that’s a pretty cool dataset, yet I’ve let it collect digital dust.
 
