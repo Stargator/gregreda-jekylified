@@ -9,7 +9,7 @@ sudo: false
 git:
     submodules: false
 before_install:
-    - sed -i 's/git@github.com:/https:\/\/github.com\//' .gitmodules
+#    - sed -i 's/git@github.com:/https:\/\/github.com\//' . gitmodules
     - git submodule update --init --recursive
     - gem update --system
     - gem --version

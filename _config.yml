@@ -6,6 +6,7 @@
 # Name of your site (displayed in the header)
 name: Jekyllifed-Gregreda
 title: Gregreda mets Ruby
+about_header: "Nice to meet you"
 
 # Short bio or description (displayed in the header)
 description: # this means to ignore newlines until "baseurl:"
@@ -52,7 +53,10 @@ destination: output
 safe: false
 encoding: "utf-8"
 # Exclude these files from your production _site
-exclude: [vendor]
+exclude:
+  - [vendor]
+  - content/vacuum/LICENSE
+  - content/vacuum/README.md
 #include:
 #keep_files:
 ## Filtering Content
@@ -72,6 +76,34 @@ gems:
    - jemoji
    - jekyll-sitemap
    - jekyll-feed
+
+AVATAR: '/theme/images/avatar.jpg'
+# TODO: switch to /blog/slug/index.html -- need to setup redirects first
+ARTICLE_URL: '{date:%Y}/{date:%m}/{date:%d}/{slug}/'
+ARTICLE_SAVE_AS: '{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
+# Static Pages
+PAGE_PATHS: ['pages']
+PAGE_URL: '{slug}/'
+PAGE_SAVE_AS: '{slug}/index.html'
+ABOUT_PAGE_HEADER: 'Nice to meet you.'
+CODE_DIR: 'code'
+NOTEBOOK_DIR: 'notebooks'
+
+TWITTER_CARDS: True
+TWITTER_NAME: "gjreda"
+GITHUB_NAME: 'gjreda'
+LINKEDIN_URL: 'http://linkedin.com/in/gjreda'
+GOOGLE_PLUS_URL: 'https://plus.google.com/111658599948853828157?rel=author'
+LASTFM_NAME: 'gjreda'
+
+#### Analytics
+GOOGLE_ANALYTICS: 'UA-34295039-1'
+DOMAIN: "gregreda.com"
+
+# Other
+MAILCHIMP: True
+CACHE_CONTENT: False
+AUTORELOAD_IGNORE_CACHE: True
 
 # Serve settings
 detach: false

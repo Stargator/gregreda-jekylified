@@ -3,7 +3,6 @@ Title: Using pandas on the MovieLens dataset
 Date: 2013-10-26 3:00
 Tags: python, pandas, sql, tutorial, data science
 Description: Part three of a three part introduction to the pandas library for Python. It is geared towards SQL users, but is useful for anyone wanting to get started with pandas.
-Affiliate_Link: <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=gregrecom-20&marketplace=amazon&region=US&placement=1449319793&asins=1449319793&linkId=FKL6YFFR7RIEILGT&show_border=true&link_opens_in_new_window=true"></iframe>
 layout: article
 ---
 
